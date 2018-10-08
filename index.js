@@ -31,7 +31,7 @@ function calculate() {
             return;
     }
 
-    //ein kommentar von fur
+    //ein kommentar von fur nochmals fur
     resultSpan.innerText = result.toString();
     resultArea.hidden = false;
 }
