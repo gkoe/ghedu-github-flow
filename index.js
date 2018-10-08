@@ -23,7 +23,7 @@ function calculate() {
             result = add(parseInt(parameter1Input.value), parseInt(parameter2.value));
             break;
         case 'div':
-        // Division durcch 0 verhindern!!!!
+        // Division durch 0 verhindern!!!!
             result = div(parseInt(parameter1Input.value), parseInt(parameter2.value));
             break;
         default:
